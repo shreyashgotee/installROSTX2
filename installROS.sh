@@ -139,4 +139,6 @@ sudo apt-get install python-rosinstall python-rosinstall-generator python-wstool
 tput setaf 2
 echo "Installation complete!"
 tput sgr0
-
+# Setting up catkin workspace
+echo "Setting up catkin workspace"
+bash ~/installROSTX2/setupCatkinWorkspace.sh
