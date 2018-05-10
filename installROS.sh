@@ -141,4 +141,4 @@ echo "Installation complete!"
 tput sgr0
 # Setting up catkin workspace
 echo "Setting up catkin workspace"
-bash ~/installROSTX2/setupCatkinWorkspace.sh
+bash /tmp/install_ros_tx2/setupCatkinWorkspace.sh
